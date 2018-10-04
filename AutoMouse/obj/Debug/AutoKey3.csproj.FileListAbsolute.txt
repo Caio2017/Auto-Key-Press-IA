@@ -1,0 +1,11 @@
+M:\MyProjetsCSharp\AutoMouse\backup\AutoMouse\bin\Debug\AutoMouse.exe.config
+M:\MyProjetsCSharp\AutoMouse\backup\AutoMouse\bin\Debug\AutoMouse.exe
+M:\MyProjetsCSharp\AutoMouse\backup\AutoMouse\bin\Debug\AutoMouse.pdb
+M:\MyProjetsCSharp\AutoMouse\backup\AutoMouse\obj\Debug\AutoKey3.csprojAssemblyReference.cache
+M:\MyProjetsCSharp\AutoMouse\backup\AutoMouse\obj\Debug\AutoMouse.Form1.resources
+M:\MyProjetsCSharp\AutoMouse\backup\AutoMouse\obj\Debug\AutoMouse.Form2test.resources
+M:\MyProjetsCSharp\AutoMouse\backup\AutoMouse\obj\Debug\AutoMouse.Properties.Resources.resources
+M:\MyProjetsCSharp\AutoMouse\backup\AutoMouse\obj\Debug\AutoKey3.csproj.GenerateResource.cache
+M:\MyProjetsCSharp\AutoMouse\backup\AutoMouse\obj\Debug\AutoKey3.csproj.CoreCompileInputs.cache
+M:\MyProjetsCSharp\AutoMouse\backup\AutoMouse\obj\Debug\AutoMouse.exe
+M:\MyProjetsCSharp\AutoMouse\backup\AutoMouse\obj\Debug\AutoMouse.pdb
